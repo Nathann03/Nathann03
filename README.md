@@ -33,7 +33,7 @@
 
 <img align="left" style="max-width: 49%; width: 100%; height: auto;" alt="Nathan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nathann03&show_icons=true&hide_rank=true&theme=transparent#gh-light-mode-only" />
 
-<img align="right" style="max-width: 51%; width: 100%; height: auto;" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathann03&layout=compact&theme=transparent" />
+<img align="right" style="max-width: 50%; width: 100%; height: auto;" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathann03&layout=compact&theme=transparent" />
 
 
 
