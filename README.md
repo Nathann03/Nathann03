@@ -33,11 +33,11 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
   <div style="width: 48%;">
-    <img alt="Nathan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nathann03&show_icons=true&hide_rank=true&theme=transparent#gh-light-mode-only" style="width: 100%; margin: 0;" />
+    <img alt="Nathan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nathann03&show_icons=true&hide_rank=true&theme=transparent#gh-light-mode-only" style="width: 100%; max-height: 200px; margin: 0;" />
   </div>
 
   <div style="width: 48%;">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathann03&layout=compact&theme=transparent" style="width: 100%; margin: 0;" />
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathann03&layout=compact&theme=transparent" style="width: 100%; max-height: 200px; margin: 0;" />
   </div>
 
 </div>
