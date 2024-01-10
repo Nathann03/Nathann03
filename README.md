@@ -11,9 +11,9 @@
 
 ### About me
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<div align="left" style="width:45%;">
+<div align="left" style="width:50%;">
     <ul>
         <li>🎓 Current 3rd student at the University of Cincinnati, majoring in Computer Science!
         </li>
