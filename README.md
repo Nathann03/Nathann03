@@ -25,15 +25,15 @@
         </li>
         <li>💬 Ask me about anything, I am happy to help if I can!
         </li>
-        <li>📝 <a href="https://www.dropbox.com/scl/fi/jgadtf7pdlrgje8nxtlmt/Nathan.Nguyen_26_Resume_10.3.23.pdf?rlkey=h449bl7pukbtrlbmc3dn0b4hg&dl=0">Resume</a>!
+        <li>📝 <a href="">Resume</a>!
     </ul>
 </div>
 
 
 
-<img align="left" width="48%" alt="Nathan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nathann03&show_icons=true&hide_rank=true&theme=transparent#gh-light-mode-only"/>
+<img align="left" width="45%" alt="Nathan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nathann03&show_icons=true&hide_rank=true&theme=transparent#gh-light-mode-only" />
 
-<img align="right" width="51%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathann03&layout=compact&theme=transparent"/>
+<img align="right" width="45%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathann03&layout=compact&theme=transparent" />
 
 
 
