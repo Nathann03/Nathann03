@@ -1,4 +1,4 @@
-# Hiya! I am Nathan Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+# Hello! I am Nathan Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 
 ### Aspiring Software Engineer, changing the world one line of code at a time.
