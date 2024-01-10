@@ -29,11 +29,6 @@
     </ul>
 </div>
 
-
-
 <img align="left" width="46.5%" alt="Nathan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nathann03&show_icons=true&hide_rank=true&theme=transparent#gh-light-mode-only" style="margin: 0;" />
 
 <img align="right" width="48.5%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathann03&layout=compact&theme=transparent" style="margin: 0;" />
-
-
-
