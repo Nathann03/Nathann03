@@ -31,8 +31,16 @@
 
 
 
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathann03&show_icons=true&hide_rank=true&theme=transparent#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathann03&layout=compact&theme=transparent)
+<img align="left" width="46.5%" alt="Nathan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nathann03&show_icons=true&hide_rank=true&theme=transparent#gh-light-mode-only" style="margin: 0;" />
 
+<img align="right" width="48.5%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathann03&layout=compact&theme=transparent" style="margin: 0;" />
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<details align="left">
+    <summary>What I'm currently listening to</summary>
+    <a href="https://open.spotify.com/user/nathanfire100">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=nathanfire100&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Listening Activity" />
+    </a>
+</details>
 
