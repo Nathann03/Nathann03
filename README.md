@@ -2,13 +2,14 @@
 
 ----
 
-#### Aspiring Software Engineer, changing the world one line of code at a time.
+### Aspiring Software Engineer, changing the world one line of code at a time.
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Nathann03)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathanpng/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nathanpn2003@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:Nguye3np@mail.uc.edu)
 [![page views](https://komarev.com/ghpvc/?username=nathann03&color=green)](https://github.com/Nathann03/Nathann03)
-######Connect with me!
+
+#####Connect with me!
 
 
 ### About me
