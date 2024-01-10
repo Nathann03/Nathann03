@@ -8,7 +8,6 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:Nguye3np@mail.uc.edu)
 [![page views](https://komarev.com/ghpvc/?username=nathann03&color=green)](https://github.com/Nathann03/Nathann03)
 
-
 <small><b>Connect with me!</b></small>
 
 ### About me
