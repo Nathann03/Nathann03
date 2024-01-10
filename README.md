@@ -31,15 +31,10 @@
 
 
 
-<img align="left" width="46.5%" alt="Nathan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nathann03&show_icons=true&hide_rank=true&theme=transparent#gh-light-mode-only" style="margin: 0;" />
+<img align="left" style="max-width: 49%; width: 100%; height: auto;" alt="Nathan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nathann03&show_icons=true&hide_rank=true&theme=transparent#gh-light-mode-only" />
 
-<img align="right" width="48.5%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathann03&layout=compact&theme=transparent" style="margin: 0;" />
+<img align="right" style="max-width: 51%; width: 100%; height: auto;" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathann03&layout=compact&theme=transparent" />
 
 
-<details align="left">
-    <summary>What I'm currently listening to</summary>
-    <a href="https://open.spotify.com/user/nathanfire100">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=nathanfire100&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Listening Activity" />
-    </a>
-</details>
+
 
