@@ -8,14 +8,14 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nathanpn2003@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:Nguye3np@mail.uc.edu)
 [![page views](https://komarev.com/ghpvc/?username=nathann03&color=green)](https://github.com/Nathann03/Nathann03)
-###### Connect with me!
+Connect with me!
 
 
 ### About me
 
-![Nathan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Nathann03&show_icons=true&hide_rank=true&theme=dark#gh-dark-mode-only)
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathann03&show_icons=true&hide_rank=true&theme=default#gh-light-mode-only)
 
-![Nathan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Nathann03&show_icons=true&hide_rank=true&theme=default#gh-light-mode-only)
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathann03&show_icons=true&hide_rank=true&theme=dark#gh-dark-mode-only)
 
 - 🎓 Current 3rd student at the University of Cincinnati, majoring in Computer Science!
 
