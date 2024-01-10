@@ -31,8 +31,8 @@
 
 
 <p align="center">
-  <img alt="Nathan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nathann03&show_icons=true&hide_rank=true&theme=transparent#gh-light-mode-only" style="width: 50%; max-height: 200px; margin: 0;" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathann03&layout=compact&theme=transparent" style="width: 49%; max-height: 200px; margin: 0;" />
+  <img alt="Nathan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nathann03&show_icons=true&hide_rank=true&theme=transparent#gh-light-mode-only" style="width: 48%; max-height: 200px; margin: 0;" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathann03&layout=compact&theme=transparent" style="width: 50%; max-height: 200px; margin: 0;" />
 </p>
 
 
