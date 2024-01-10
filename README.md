@@ -9,7 +9,7 @@
 [![page views](https://komarev.com/ghpvc/?username=nathann03&color=green)](https://github.com/Nathann03/Nathann03)
 
 
-### About me
+## About me
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
