@@ -15,7 +15,7 @@
 
 <div align="left" style="width:50%;">
     <ul>
-        <li>🎓 Current 3rd student at the University of Cincinnati, majoring in Computer Science!
+        <li>🎓 Current 3rd year student at the University of Cincinnati, majoring in Computer Science!
         </li>
         <li>🏢 Prev: Software Engineer Intern at <a href="https://github.com/8451">84.51°</a> (<a href="https://github.com/nathannguyen-8451">Github</a>), Undergraduate NLP Reasearcher at <a href="https://ceas.uc.edu/academics/departments/engineering-education/protege-undergraduate-research-program/testing-software-features.html">UC</a>!
         </li>
