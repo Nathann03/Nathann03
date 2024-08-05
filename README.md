@@ -25,7 +25,7 @@
         </li>
         <li>💬 Ask me about anything, I am happy to help if I can!
         </li>
-        <li>📝 <a href="">Resume</a>!
+        <li>📝 <a href="/Nathan.Nguyen_Resume_7.5.24.pdf">Resume</a>!
     </ul>
 </div>
 
