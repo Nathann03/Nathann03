@@ -18,7 +18,7 @@
     <ul>
         <li>🎓 Current 5th year student at the University of Cincinnati, majoring in Computer Science!
         </li>
-        <li>🏢 Prev: Machine Learning Intern at <a href="https://github.com/8451">84.51°</a>, Software Engineer Intern at <a href="https://github.com/capitalone">Capital One</a>, and Undergraduate NLP Researcher at <a href="https://ceas.uc.edu/academics/departments/engineering-education/protege-undergraduate-research-program/testing-software-features.html">UC</a>!
+        <li>🏢 Prev: Software Engineer Intern at <a href="https://github.com/capitalone">Capital One, </a>Machine Learning & Software Engineering Intern at <a href="https://github.com/8451">84.51°</a> (<a href="https://github.com/nathannguyen-8451">Github</a>), and Undergraduate NLP Researcher at <a href="https://ceas.uc.edu/academics/departments/engineering-education/protege-undergraduate-research-program/testing-software-features.html">UC</a>!
         </li>
         <li>🚀 I'm currently working on a <a href="https://uccubecats.github.io/LEOPARDSat-1.html">space satellite</a>!
         </li>
