@@ -22,7 +22,7 @@
         </li>
         <li>🚀 I'm currently working on a <a href="https://uccubecats.github.io/LEOPARDSat-1.html">space satellite</a>!
         </li>
-        <li>🌱 Currently learning Unity, Algorithms, Fullstack Development, System Design.
+        <li>🌱 Currently learning Deep Learning/ML, Algorithms, Cloud Computing, and System Design.
         </li>
         <li>💬 Ask me about anything, I am happy to help if I can!
         </li>
