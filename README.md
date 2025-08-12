@@ -4,6 +4,7 @@
 ### Aspiring Software Engineer, changing the world one line of code at a time.
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Nathann03)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathanpng/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=Vercel&logoColor=white)](https://nathanpng.vercel.app/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nathanpn2003@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:Nguye3np@mail.uc.edu)
 [![page views](https://komarev.com/ghpvc/?username=nathann03&color=green)](https://github.com/Nathann03/Nathann03)
@@ -15,9 +16,9 @@
 
 <div align="left" style="width:50%;">
     <ul>
-        <li>🎓 Current 4th year student at the University of Cincinnati, majoring in Computer Science!
+        <li>🎓 Current 5th year student at the University of Cincinnati, majoring in Computer Science!
         </li>
-        <li>🏢 Prev: Software Engineer Intern at <a href="https://github.com/8451">84.51°</a> (<a href="https://github.com/nathannguyen-8451">Github</a>), Undergraduate NLP Reasearcher at <a href="https://ceas.uc.edu/academics/departments/engineering-education/protege-undergraduate-research-program/testing-software-features.html">UC</a>!
+        <li>🏢 Prev: Machine Learning Intern at <a href="https://github.com/8451">84.51°</a>, Software Engineer Intern at <a href="https://github.com/capitalone">Capital One</a>, and Undergraduate NLP Researcher at <a href="https://ceas.uc.edu/academics/departments/engineering-education/protege-undergraduate-research-program/testing-software-features.html">UC</a>!
         </li>
         <li>🚀 I'm currently working on a <a href="https://uccubecats.github.io/LEOPARDSat-1.html">space satellite</a>!
         </li>
@@ -37,9 +38,6 @@
 
 <details>
     <summary>What I'm currently listening to</summary>
-    <a href="https://open.spotify.com/user/nathanfire100">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=nathanfire100&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Listening Activity" />
-    </a>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=nathanfire100&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=nathanfire100&redirect=true)
 </details>
-
-
