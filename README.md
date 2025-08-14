@@ -27,6 +27,8 @@
         <li>💬 Ask me about anything, I am happy to help if I can!
         </li>
         <li>📝 <a href="/Nathan.Nguyen_Resume_7.10.25.pdf">Resume</a>!
+        </li>
+        <li>📝 <a href="HTTPS://Nathanpng.vercel.app">Personal Website</a>!
     </ul>
 </div>
 
